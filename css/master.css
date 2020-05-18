@@ -5,20 +5,17 @@
   outline: none;
   font-size: 1em;
   font-weight: normal;
-  box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 img {
   max-width: 100%;
-  display: block;
-}
+  display: block; }
 
 input,
 button,
 textarea,
 select {
-  font: inherit;
-}
+  font: inherit; }
 
 body {
   -moz-osx-font-smoothing: grayscale;
@@ -28,5 +25,4 @@ body {
   -moz-font-feature-settings: "liga" on;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   min-height: 100vh;
-  scroll-behavior: smooth;
-}
+  scroll-behavior: smooth; }
