@@ -22,6 +22,11 @@ select {
   font: inherit;
 }
 
+[type=button],
+button {
+  all: revert;
+}
+
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
